@@ -46,7 +46,11 @@ This file contains the structure we will style using CSS.
    - Set all the margins and padding for all HTML elements to be zero to ensure consistent rendering across different browsers.
    - Use the CSS selector that can apply the style to all elements.
    - Set the `box-sizing` property so that padding and border are included in the width and height.
-```css
+```html 
+<head>
+    <title>Web Layout Exercise</title>
+    <link rel="stylesheet" href="layout.css">
+</head>
 ```
 
 ---
